@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=26&pause=700&weight=700&color=0096FF&center=true&vCenter=true&width=600&height=70&lines=👋Welcome+to+my+GitHub+Profile!;Feel+free+to+explore+my+projects!;Let's+connect+and+collaborate!;">
+</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently studying in Newton School of Technology<br><br>🌱 I’m currently learning React, ThreeJs, ....<br><br>💬 Ask me about HTML, CSS, PYTHON, JS... or anything here<br><br>⚡ Fun fact The first computer bug was a real bug
 
